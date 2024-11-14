@@ -6,11 +6,13 @@
 
 <h1><center>Variables and data types. Arrays. Structure</center></h1>
 
-**Course creator and speaker:** Manuel David Soto. MSc in Geology,
-University of Texas at Austin, USA.
+<h2>Course creator and speaker</h2>
 
-**Organizer and colaborator:** Ulises Berman. Student of Geophysical Eng, USB, Caracas,
-Venezuela. President of the AAPG USB Student Chapter.
+Manuel **David** Soto. MSc in Geological Sciences, University of Texas at Austin, USA.
+
+<h2>Organizer and colaborator</h2>
+
+Ulises Berman. Student of Geophysical Eng, USB, Caracas, Venezuela. President of the AAPG USB Student Chapter.
 
 <a  id="toc"></a>
 
