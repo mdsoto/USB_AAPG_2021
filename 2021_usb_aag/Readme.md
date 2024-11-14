@@ -22,7 +22,7 @@ The course is composed of an introduction (pdf not provided here) and 3 online s
 
 <h2>Attendees and requirements</h2>
 
-Geoscientists and engineers with basic knowledge of open-hole log analysis. Personal computer (with Windows 10 preferably) with Internet connection.
+Geoscientists and engineers with basic knowledge of open-hole log analysis. Personal computer with Internet connection.
 
 <h2>Summarized table of contents</h2>
 
