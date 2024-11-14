@@ -2,13 +2,11 @@
 
 <img src="NB_images\portada.png" style="width:1000px" align="center">
 
-<h1><center>Session 1</center></h1>
-
-<h1><center>Variables and data types. Arrays. Structure</center></h1>
+<h1><center>Session 1 - Variables and data types. Arrays. Structure</center></h1>
 
 <a  id="toc"></a>
 
-<h3>Table of contents</h3>
+<h2>Table of contents</h2>
 
   - [1 Variables and data types](#variables)
       - [1.1 Introduction](#intro)
