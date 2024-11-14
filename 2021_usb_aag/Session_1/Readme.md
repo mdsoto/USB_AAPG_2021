@@ -9,7 +9,7 @@
 **Course creator and speaker:** Manuel David Soto. MSc in Geology,
 University of Texas at Austin, USA.
 
-**Organizer:** Ulises Berman. Student of Geophysical Eng, USB, Caracas,
+**Organizer and colaborator:** Ulises Berman. Student of Geophysical Eng, USB, Caracas,
 Venezuela. President of the AAPG USB Student Chapter.
 
 <a  id="toc"></a>
@@ -38,6 +38,6 @@ Venezuela. President of the AAPG USB Student Chapter.
       - [3.1 Built-in functions](#bif)
       - [3.2 Standard libraries](#sl)  
       - [3.3 External libraries](#el)
-      - [3.4 User defined functions](#udf)
+      - [3.4 User-defined functions](#udf)
 
 </div>
