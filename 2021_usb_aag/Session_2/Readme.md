@@ -2,15 +2,7 @@
 
 <img src="NB_images\portada.png" style="width:1000px" align="center">
 
-<h1><center>Session 2</center></h1>
-
-<h1><center>Flow control. R&W text files. Plots and multi plots. Basic statistics</center></h1>
-
-**Course creator and speaker:** Manuel David Soto. MSc in Geology,
-University of Texas at Austin, USA.
-
-**Organizer:** Ulises Berman. Student of Geophysical Eng, USB, Caracas,
-Venezuela. President of the USB AAPG Student Chapter.
+<h1><center>Session 2 - Flow control. R&W text files. Plots and multi plots. Basic statistics</center></h1>
 
 <a  id="toc"></a>
 
@@ -24,11 +16,11 @@ Venezuela. President of the USB AAPG Student Chapter.
   - [2. Read and write text files](#rwt)
       - [2.1 Reading text files](#rtext)
           - [2.1.1 Reading single column text files](#rsingle)
-          - [2.1.2 Reading multi column text files with missing
+          - [2.1.2 Reading multi-column text files with missing
             values](#rmulti)
       - [2.2 Writing text files](#wtext)
           - [2.2.1 Writing simple text reports](#wreport)
-          - [2.2.2 Writing single or multi column text files](#wcolumn)
+          - [2.2.2 Writing single or multi-column text files](#wcolumn)
   - [3 Plots](#plots)
       - [3.1 Single plots](#splots)
           - [3.1.1 Point-line plots](#line)
