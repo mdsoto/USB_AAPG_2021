@@ -2,11 +2,13 @@
 
 <img src="NB_images\portada.png" style="width:1000px" align="center">
 
-<h1><center>Session 2 - Flow control. R&W text files. Plots and multi plots. Basic statistics</center></h1>
+<h1><center>Session 2</center></h1>
+
+<h1><center>Flow control. R&W text files. Plots and multi plots. Basic statistics</center></h1>
 
 <a  id="toc"></a>
 
-<h1>Table of contents</h1>
+<h2>Table of contents</h2>
 
   - [1. Flow control](#flow)
       - [1.1 Conditionals](#if)
