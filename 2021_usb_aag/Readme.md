@@ -10,7 +10,7 @@ Ulises Berman. Student of Geophysical Eng, USB, Caracas, Venezuela. President of
 
 <h2>About this material</h2>
 
-This was the core material of the online course Basic Python for Log Analysis, given at the Universidad Simon Bolivar (USB) AAPG Student Chapter (Caracas, Venezuela), in January 2021. The course was organized by Ulises Berman (Student of Geophysical Eng, USB), President of the USB AAPG student chapter. In the course, 25 students and professionals from six countries participated: Argentina, Bolivia, Colombia, Peru, the USA, and Venezuela, the organizer country.
+This was the core material of the online course Basic Python for Log Analysis, given at the Universidad Simón Bolívar (USB) AAPG Student Chapter (Caracas, Venezuela), in January 2021. The course was organized by Ulises Berman (Student of Geophysical Eng, USB), President of the USB AAPG student chapter. In the course, 25 students and professionals from six countries participated: Argentina, Bolivia, Colombia, Peru, the USA, and Venezuela, the organizer country.
 
 <h2>Objectives</h2>
 
